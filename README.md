@@ -30,5 +30,3 @@ The simulated network includes three lines based on the Pune Metro:
 
 The network includes key interchange stations like Civil Court and Shivaji Nagar to facilitate travel between lines.
 
-
-wassup 
