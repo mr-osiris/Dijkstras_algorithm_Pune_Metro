@@ -33,4 +33,3 @@ The network includes key interchange stations like Civil Court and Shivaji Nagar
 
 wassup 
 ich bin satt
-wrust ist frisch 
