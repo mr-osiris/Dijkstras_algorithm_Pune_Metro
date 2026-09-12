@@ -29,3 +29,8 @@ The simulated network includes three lines based on the Pune Metro:
 🔴 __Red Line:__ Megapolis Circle to Civil Court
 
 The network includes key interchange stations like Civil Court and Shivaji Nagar to facilitate travel between lines.
+
+
+wassup 
+ich bin satt
+wrust ist frisch 
